@@ -1,0 +1,3 @@
+Login correcto
+ npm test ./3simpleERPAutomation/login/1validaciondellogincorrecto.js
+
